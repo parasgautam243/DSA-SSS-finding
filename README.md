@@ -1,6 +1,4 @@
-# DSA-SSS-finding
-
-# Shortest Distance Between Capital Cities
+# Shortest City Distance Finder
 
 ## Project Overview
 
